@@ -1,0 +1,280 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - beethoven op.101",
+        "totalResults": "2000",
+        "searchTerms": "beethoven op.101",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "XXXXXXXXXXXXXXX"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - beethoven op.101",
+        "totalResults": "2000",
+        "searchTerms": "beethoven op.101",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "XXXXXXXXXXXXXXX"
+      }
+    ]
+  },
+  "context": {
+    "title": "imslp"
+  },
+  "searchInformation": {
+    "searchTime": 0.344092,
+    "formattedSearchTime": "0.34",
+    "totalResults": "2000",
+    "formattedTotalResults": "2,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Piano Sonata No.28, Op.101 (Beethoven, Ludwig van) - IMSLP",
+      "htmlTitle": "Piano Sonata No.28, \u003cb\u003eOp\u003c/b\u003e.\u003cb\u003e101\u003c/b\u003e (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) - IMSLP",
+      "link": "https://imslp.org/wiki/Piano_Sonata_No.28,_Op.101_(Beethoven,_Ludwig_van)",
+      "displayLink": "imslp.org",
+      "snippet": "Piano Sonata No.28, Op.101 (Beethoven, Ludwig van) · Contents · Performances · Sheet Music · General Information · Navigation etc. Beethoven Piano Sonatas.",
+      "htmlSnippet": "Piano Sonata No.28, \u003cb\u003eOp\u003c/b\u003e.\u003cb\u003e101\u003c/b\u003e (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) &middot; Contents &middot; Performances &middot; Sheet Music &middot; General Information &middot; Navigation etc. \u003cb\u003eBeethoven\u003c/b\u003e Piano Sonatas.",
+      "formattedUrl": "https://imslp.org/.../Piano_Sonata_No.28,_Op.101_(Beethoven,_Ludwig_v...",
+      "htmlFormattedUrl": "https://imslp.org/.../Piano_Sonata_No.28,_\u003cb\u003eOp.101\u003c/b\u003e_(\u003cb\u003eBeethoven\u003c/b\u003e,_Ludwig_v...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZc5ta7fs7gx8KpEHCxhwBwUz-6_gLsF8wSgdv0HbikE-mvXh8oU_HbM&s",
+            "width": "170",
+            "height": "170"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "smartbanner:enabled-platforms": ","
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.imslp.org/naxoscache.php?pool=others&file=SWR19054CD.gif"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Untitled",
+      "htmlTitle": "Untitled",
+      "link": "https://s9.imslp.org/files/imglnks/usimg/2/23/IMSLP03165-Beethoven-PianoSonataNo17Lebert.pdf",
+      "displayLink": "s9.imslp.org",
+      "snippet": "20. Una corda. L. van Beethoven. (Op. 31, N: 2.) Allegro.(d=108.) 3 2 3.",
+      "htmlSnippet": "20. Una corda. L. van \u003cb\u003eBeethoven\u003c/b\u003e. (\u003cb\u003eOp\u003c/b\u003e. 31, N: 2.) Allegro.(d=108.) 3 2 3.",
+      "formattedUrl": "https://s9.imslp.org/.../IMSLP03165-Beethoven-PianoSonataNo17Lebert.pd...",
+      "htmlFormattedUrl": "https://s9.imslp.org/.../IMSLP03165-\u003cb\u003eBeethoven\u003c/b\u003e-PianoSonataNo17Lebert.pd...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOVPUOANkYrgDComGYeZENSYEr_MtwCAaZjctOuiyah1gokDeAbslfS8&s",
+            "width": "196",
+            "height": "257"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "Mon Jan  8 20:44:43 2007",
+            "creator": "Adobe Acrobat 7.0",
+            "creationdate": "Mon Jan  8 20:44:43 2007",
+            "producer": "Adobe Acrobat 7.0 Image Conversion Plug-in"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///1d56328e60064e146316f22c77745a3df7af3d60be6dcceb9663927e52d4fdae"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Template:Piano Sonatas (Beethoven, Ludwig van) - IMSLP",
+      "htmlTitle": "Template:Piano Sonatas (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) - IMSLP",
+      "link": "https://imslp.org/wiki/Template:Piano_Sonatas_(Beethoven,_Ludwig_van)",
+      "displayLink": "imslp.org",
+      "snippet": "... Op.81a (\"Les adieux\"); Piano Sonata No.27 in E minor, Op.90 · Piano Sonata No.28 in A major, Op.101 · Piano Sonata No.29 in B-flat major, Op.106 (\"Hammerklavier ...",
+      "htmlSnippet": "... Op.81a (&quot;Les adieux&quot;); Piano Sonata No.27 in E minor, Op.90 &middot; Piano Sonata No.28 in A major, \u003cb\u003eOp\u003c/b\u003e.\u003cb\u003e101\u003c/b\u003e &middot; Piano Sonata No.29 in B-flat major, Op.106 (&quot;Hammerklavier&nbsp;...",
+      "formattedUrl": "https://imslp.org/wiki/Template:Piano_Sonatas_(Beethoven,_Ludwig_van)",
+      "htmlFormattedUrl": "https://imslp.org/wiki/Template:Piano_Sonatas_(\u003cb\u003eBeethoven\u003c/b\u003e,_Ludwig_van)",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "smartbanner:enabled-platforms": ","
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Adagios de L. van Beethoven, Op.101 (Brisson, Frédéric) - IMSLP",
+      "htmlTitle": "Adagios de L. van \u003cb\u003eBeethoven\u003c/b\u003e, \u003cb\u003eOp.101\u003c/b\u003e (Brisson, Frédéric) - IMSLP",
+      "link": "https://imslp.org/wiki/Adagios_de_L._van_Beethoven,_Op.101_(Brisson,_Fr%C3%A9d%C3%A9ric)",
+      "displayLink": "imslp.org",
+      "snippet": "For 3 players · For violin, piano, organ · Scores featuring the organ · Works first published in 1868 · Works first published in the 19th century · Scores with ...",
+      "htmlSnippet": "For 3 players &middot; For violin, piano, organ &middot; Scores featuring the organ &middot; Works first published in 1868 &middot; Works first published in the 19th century &middot; Scores with&nbsp;...",
+      "formattedUrl": "https://imslp.org/.../Adagios_de_L._van_Beethoven,_Op.101_(Brisson,_Fré...",
+      "htmlFormattedUrl": "https://imslp.org/.../Adagios_de_L._van_\u003cb\u003eBeethoven\u003c/b\u003e,_\u003cb\u003eOp.101\u003c/b\u003e_(Brisson,_Fré...",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "smartbanner:enabled-platforms": ","
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Untitled",
+      "htmlTitle": "Untitled",
+      "link": "https://vmirror.imslp.org/files/imglnks/usimg/6/63/IMSLP02019-Beethoven-op.101-cotta.pdf",
+      "displayLink": "vmirror.imslp.org",
+      "snippet": "the case of Op.81 and Op. 90. At Op. 106 he returns to the exclusive use of ... Für Beethoven ist die Fugenform Dasselbe,. Dich- was für Richard Wagners ...",
+      "htmlSnippet": "the case of \u003cb\u003eOp\u003c/b\u003e.81 and \u003cb\u003eOp\u003c/b\u003e. 90. At \u003cb\u003eOp\u003c/b\u003e. 106 he returns to the exclusive use of ... Für \u003cb\u003eBeethoven\u003c/b\u003e ist die Fugenform Dasselbe,. Dich- was für Richard Wagners&nbsp;...",
+      "formattedUrl": "https://vmirror.imslp.org/files/.../IMSLP02019-Beethoven-op.101-cotta.pdf",
+      "htmlFormattedUrl": "https://vmirror.imslp.org/files/.../IMSLP02019-\u003cb\u003eBeethoven\u003c/b\u003e-\u003cb\u003eop.101\u003c/b\u003e-cotta.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMLBFGgs4f60udN1SW7c8DJWCLr9v2C4s1lIywyD_jX3itdqq4ezHh3g&s",
+            "width": "196",
+            "height": "257"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "Fri Nov 18 06:57:54 2005",
+            "creator": "Adobe Acrobat Capture Normalize Agent 3.0",
+            "creationdate": "Fri Nov 18 06:57:48 2005",
+            "producer": "Adobe PDF Library 4.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///182e31783df52464bb4bf282b04a8fa3dce12aff6c7f8522f3e899b65315c97c"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "32 Piano Sonatas (Beethoven, Ludwig van) - IMSLP",
+      "htmlTitle": "32 Piano Sonatas (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) - IMSLP",
+      "link": "https://imslp.org/wiki/32_Piano_Sonatas_(Beethoven%2C_Ludwig_van)",
+      "displayLink": "imslp.org",
+      "snippet": "... Op.81a (\"Les adieux\"); Piano Sonata No.27 in E minor, Op.90; Piano Sonata No.28 in A major, Op.101; Piano Sonata No.29 in B-flat major, Op.106 (\"Hammerklavier\") ...",
+      "htmlSnippet": "... Op.81a (&quot;Les adieux&quot;); Piano Sonata No.27 in E minor, Op.90; Piano Sonata No.28 in A major, \u003cb\u003eOp\u003c/b\u003e.\u003cb\u003e101\u003c/b\u003e; Piano Sonata No.29 in B-flat major, Op.106 (&quot;Hammerklavier&quot;)&nbsp;...",
+      "formattedUrl": "https://imslp.org/wiki/32_Piano_Sonatas_(Beethoven%2C_Ludwig_van)",
+      "htmlFormattedUrl": "https://imslp.org/wiki/32_Piano_Sonatas_(\u003cb\u003eBeethoven\u003c/b\u003e%2C_Ludwig_van)",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "smartbanner:enabled-platforms": ","
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Category:Cornell, John Henry∕Translator - IMSLP",
+      "htmlTitle": "Category:Cornell, John Henry∕Translator - IMSLP",
+      "link": "https://imslp.org/wiki/Category:Cornell,_John_Henry/Translator",
+      "displayLink": "imslp.org",
+      "snippet": "Piano Sonata No.8, Op.13 (Beethoven, Ludwig van) · Piano Sonata No.21, Op.53 (Beethoven, Ludwig van) · Piano Sonata No.28, Op.101 (Beethoven, Ludwig van). P ...",
+      "htmlSnippet": "Piano Sonata No.8, Op.13 (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) &middot; Piano Sonata No.21, Op.53 (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) &middot; Piano Sonata No.28, \u003cb\u003eOp\u003c/b\u003e.\u003cb\u003e101\u003c/b\u003e (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van). P&nbsp;...",
+      "formattedUrl": "https://imslp.org/wiki/Category:Cornell,_John_Henry/Translator",
+      "htmlFormattedUrl": "https://imslp.org/wiki/Category:Cornell,_John_Henry/Translator",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "smartbanner:enabled-platforms": ","
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Category:Beethoven, Ludwig van∕Collections With - IMSLP",
+      "htmlTitle": "Category:\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van∕Collections With - IMSLP",
+      "link": "https://imslp.org/wiki/Category:Beethoven,_Ludwig_van/Collections_With",
+      "displayLink": "imslp.org",
+      "snippet": "Adagios de L. van Beethoven, Op.101 (Brisson, Frédéric) · Airs populaires, chants nationaux et motifs célèbres (Vilbac, Renaud de) · Album for Violin and ...",
+      "htmlSnippet": "Adagios de L. van \u003cb\u003eBeethoven\u003c/b\u003e, \u003cb\u003eOp.101\u003c/b\u003e (Brisson, Frédéric) &middot; Airs populaires, chants nationaux et motifs célèbres (Vilbac, Renaud de) &middot; Album for Violin and&nbsp;...",
+      "formattedUrl": "https://imslp.org/wiki/Category:Beethoven,_Ludwig.../Collections_With",
+      "htmlFormattedUrl": "https://imslp.org/wiki/Category:\u003cb\u003eBeethoven\u003c/b\u003e,_Ludwig.../Collections_With",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "smartbanner:enabled-platforms": ","
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Category:Scores published by Ullstein - IMSLP",
+      "htmlTitle": "Category:Scores published by Ullstein - IMSLP",
+      "link": "https://imslp.org/wiki/Category:Scores_published_by_Ullstein",
+      "displayLink": "imslp.org",
+      "snippet": "17, Op.31 No.2 (Beethoven, Ludwig van) · Piano Sonata No.28, Op.101 (Beethoven, Ludwig van) · Piano Sonata No.30, Op.109 (Beethoven, Ludwig van) · Piano Sonata ...",
+      "htmlSnippet": "17, Op.31 No.2 (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) &middot; Piano Sonata No.28, \u003cb\u003eOp\u003c/b\u003e.\u003cb\u003e101\u003c/b\u003e (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) &middot; Piano Sonata No.30, Op.109 (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) &middot; Piano Sonata&nbsp;...",
+      "formattedUrl": "https://imslp.org/wiki/Category:Scores_published_by_Ullstein",
+      "htmlFormattedUrl": "https://imslp.org/wiki/Category:Scores_published_by_Ullstein",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "smartbanner:enabled-platforms": ","
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Category:Schnabel, Artur∕Editor - IMSLP",
+      "htmlTitle": "Category:Schnabel, Artur∕Editor - IMSLP",
+      "link": "https://imslp.org/wiki/Category:Schnabel,_Artur/Editor",
+      "displayLink": "imslp.org",
+      "snippet": "Piano Sonata No.27, Op.90 (Beethoven, Ludwig van) · Piano Sonata No.28, Op.101 (Beethoven, Ludwig van) · Piano Sonata No.29, Op.106 (Beethoven, Ludwig van) · Piano ...",
+      "htmlSnippet": "Piano Sonata No.27, Op.90 (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) &middot; Piano Sonata No.28, \u003cb\u003eOp\u003c/b\u003e.\u003cb\u003e101\u003c/b\u003e (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) &middot; Piano Sonata No.29, Op.106 (\u003cb\u003eBeethoven\u003c/b\u003e, Ludwig van) &middot; Piano&nbsp;...",
+      "formattedUrl": "https://imslp.org/wiki/Category:Schnabel,_Artur/Editor",
+      "htmlFormattedUrl": "https://imslp.org/wiki/Category:Schnabel,_Artur/Editor",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "smartbanner:enabled-platforms": ","
+          }
+        ]
+      }
+    }
+  ]
+}
