@@ -1,6 +1,6 @@
 [project]
 name = "beets-scribe"
-version = "0.0.0"
+version = "0.1.0"
 description = "A plugin for beets to improve western classical music catalogation."
 authors = [{ name = "Sergio Moretti", email = "sergio@reliqs.net" }]
 license = { text = "MIT" }
