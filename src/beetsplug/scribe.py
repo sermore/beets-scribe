@@ -177,7 +177,7 @@ class ScribePlugin(BeetsPlugin):
     def process_work(self, lib, work):
         updated = 0
         self.msg(
-            f'\nprocess work: {work[0]}: "{work[1]}", work: "{work[2]}"',
+            f'\nprocess work: {work[0]}:"{work[1]}", work:"{work[2]}"',
         )
         res = self.find_data(f"{work[1]} {work[2]}")
         if res and res[WORK_STYLE]:
@@ -295,7 +295,7 @@ class ScribePlugin(BeetsPlugin):
             )
         )
         self.msg(
-            f"{self.config['action'].as_str().capitalize()}: {item.artist} - {item.album} {item.title}\n{data}",
+            f"{self.config['action'].as_str().capitalize()}: {item.artist} - {item.album} - {item.title}\n{data}",
         )
 
     def msg(self, message):
